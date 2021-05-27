@@ -1,4 +1,6 @@
-# Waizata
+# ![app logo](./screenshots/Logo.png)
+
+## Présentation
 
 Waizata est une plateforme de partage de compositions musicales collaboratives et veut se placer comme le réseau social de la musique.
 
@@ -11,10 +13,22 @@ Waizata cherche être accessible au plus grand nombre. Que l'utilisateur soit un
 Waizata est le projet de fin d'étude développé par 6 étudiants d'Epitech :
 * **Développeur Mobile :**
   * [Aimé M.](https://aimemotti.vercel.app) - *Chef de projet*
-* **Développeur Backend :**
+* **Développeur Back-end :**
   * Pierre B.
   * Florian C.
   * Charles D.
   * Gaëtan C.
-* **Développeur Frontend :**
+* **Développeur Front-end :**
   * Jason S.
+
+## Site Web
+
+[Accéder à notre site web](https://waizata.github.io)
+
+## Application Mobile
+
+[Télécharger l'application mobile](https://github.com/Waizata/Waizata.github.io/releases/download/v0.1.0-beta/waizata.apk)
+
+Si besoin vous pouvez utiliser [l'aide à l'installation](https://waizata.github.io/help) pour l'application mobile
+
+![Waizata_mobile screen](./screenshots/Screens.png)
