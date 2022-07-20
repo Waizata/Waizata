@@ -12,10 +12,10 @@ Waizata cherche être accessible au plus grand nombre. Que l'utilisateur soit un
 
 Waizata est le projet de fin d'étude développé par 6 étudiants d'Epitech :
 * **Développeur Mobile :**
-  * [Aimé M.](https://aimemotti.vercel.app) - *Chef de projet*
+  * [Aimé M.](https://www.linkedin.com/in/aime-motti/) - *Chef de projet*
 * **Développeur Back-end :**
   * Pierre B.
-  * Florian C.
+  * [Florian C.](https://floriancohuet.vercel.app/)
   * Charles D.
   * Gaëtan C.
 * **Développeur Front-end :**
